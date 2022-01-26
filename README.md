@@ -1,4 +1,4 @@
-### Hi there 👋
+![Github stats](https://github-readme-stats.vercel.app/api?username=PlamenHristov&show_icons=true&include_all_commits=true&custom_title=Github%20Stats&count_private=true&line_height=20&include_all_commits=true&bg_color=00000000&text_color=777) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlamenHristov&layout=compact&card_width=296&bg_color=00000000&text_color=777)](https://github.com/PlamenHristov/github-readme-stats)
 
 <!--
 **hlminh2000/hlminh2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
