@@ -1,5 +1,7 @@
 [![@hlminh2000's Holopin board](https://holopin.me/hlminh2000)](https://holopin.io/@hlminh2000)
 
+My current day-time work account: https://github.com/quantropi-minh
+
 <!--
 **hlminh2000/hlminh2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
